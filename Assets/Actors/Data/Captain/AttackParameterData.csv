@@ -1,0 +1,7 @@
+Action,AtkType,ColliderCount,EffectCount,SECount,LifeSpan,Attack,Ratio,MoveS,MoveE,MoveSpd,MoveDir,SPEffect,AnimSpd
+N1,0,1,1,0,3,5,0.45,0.25,0.45,0.1,0,1,1
+N2,0,1,1,0,3,5,0.35,0.35,0.4,0.05,0,1,1
+N3,0,1,1,0,3,5,0.15,0,0,0,0,0,1
+C1,2,1,1,0,3,5,0.3,0.25,0.5,0.1,0,2,1
+C2,0,1,1,0,3,5,0,0,0,0,0,0,1
+C3,0,1,1,0,3,10,0,0,0,0,0,0,1
